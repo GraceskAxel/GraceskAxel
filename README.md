@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Gracesk/Axel+
-- 👀 I’m expert in HTML, CSS, JS, C++, C+, React JS and Python
-- 🌱 I’m currently learning C#.
-- 📫 Reach me at discord! ! Gracesk Cat#3385
-- 😄 Pronouns: Professional Coder/Develooper!
-- ⚡ Fun fact: I have a experience of more than 10 years in coding!
+- 👋 Hi, I’m Gracesk.
+- 👀 I’m expert in HTML, CSS, JS, C++, C+, C#, React JS, Python, MongoDB, and etc. 
+- 🌱 I’m currently learning Java.
+- 📫 Reach me at discord! gc_not
+- 😄 Talent: Professional Coder/Developer.
+- 📘 Pronouns: He/Him.
 
-If you wanna learn coding, visit my youtube channel: https://youtube.com/@codewithaxel/
-Website: https://comingsoon.axel/
+Portfolio: https://gracesk.dev/
