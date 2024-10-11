@@ -3,4 +3,3 @@
 - 📫 Reach me at discord! gc_not
 - 😄 Talent: Professional Coder/Developer.
 - 📘 Pronouns: He/Him.
-- 
